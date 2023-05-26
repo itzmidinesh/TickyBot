@@ -36,7 +36,7 @@ with something of your own for that space.
 #### Other
 - Readme.md has been updated.
 - Checked and made sure there are no errors in the developer console.
-- Application is deployed using [GitHub pages](https://itzmidinesh.github.io)
+- Application is deployed using [Vercel](https://ticky-bot.vercel.app/)
 
 ### Dependencies
 
