@@ -1,6 +1,6 @@
 # Chingu Solo Project - Tier 1 - Tickybot Clone
 
-[TickyBot Clone](https://itzmidinesh.github.io/)
+[TickyBot Clone](https://ticky-bot.vercel.app/)
 
 ## Overview
 This is my attempt at cloning the [TickyBot Page](https://maknetaro.github.io/tickyBot/) using **HTML/CSS** and **JavaScript**. This is to submit for the solo project at [chingu.io](https://chingu.io)
